@@ -1,0 +1,102 @@
+html, body, h1, ul, li, p {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+main {
+  display: block;
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align:center;
+}
+
+@media only screen and (max-height: 600px) {
+  main {
+    left: 40%;
+    transform: translate(-40%, -60%);
+  }
+}
+
+h1 {
+  background-image: linear-gradient(to right, #EE898D 0%, #828B94 50%, #515B54 100%);
+  color:transparent;  
+  text-align: center;
+  background-clip: text;
+  font-family: "Roboto Slab";
+  font-size: 80px;
+}
+
+p {
+  background-image: linear-gradient(to right, #0c3483 0%, #a2b6df 100%, #6b8cce 100%, #a2b6df 100%);
+  color:transparent;
+  background-clip: text;
+  font-family: "Clear Sans";
+  font-size: 1m;
+  text-align: center;
+}
+
+code {
+  font-family: "Inconsolata";
+  font-size: 1em;
+}
+
+ul {
+  display: block;
+  margin: 0 auto;
+}
+
+li {
+  display: inline-block;
+  font-family: "Clear Sans";
+  font-size: 1.2em;
+  line-height: 1.5;
+  list-style: none;
+  margin: 0 5px;
+}
+
+.subh {
+  color: #9D797A;
+  background-clip: text;
+  font-weight: bold;
+  transition: .2s;
+}
+
+a {
+  color: #828B94;
+  text-decoration: none;
+  transition: .1s;
+}
+
+a:hover {
+  color: #5D534B;
+}
+
+.searchfield {
+  background-image: linear-gradient(to top right, #828B94 0%, #C29B99 100%);
+  color: #000000;
+  border: none;
+  display: block;
+  font-family: "Open Sans",Helvetica,Arial,sans-serif;
+  font-size: 1.1em;
+  height: 25px;
+  margin: 10px auto;
+  padding: 2px 0 2px 2px;
+  transition: .2s;
+  width: 225px;
+  text-align: center;
+}
+
+hr { background-image: linear-gradient(to right, #fcc5e4 0%, #fda34b 15%, #ff7882 35%, #c8699e 52%, #7046aa 71%, #0c1db8 87%, #020f75 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  width: 250px;
+}
