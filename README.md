@@ -4,7 +4,7 @@ This startpage is the first one I've ever done, I'll surely do reworks and the s
 
 ### What do it do?
 
-It's just a basic html page with a simple js script for a duckduckgo search (won't change, it's comfier than google) that grabs a random number to grab a picture from the little gallery, then it picks the css for the specific image (which I still havent done!). It also has the links for the pages I use and I'll be updating it with the pages I myself I'm working on.
+It's just a basic html page with a simple js script for a duckduckgo search (won't change, it's comfier than google), and one that grabs a random number to grab a picture from the little gallery, then it picks the css for the specific image (which I still havent done!). It also has the links for the pages I use and I'll be updating it with the pages I myself I'm working on.
 
 ### What does it not do?
 
