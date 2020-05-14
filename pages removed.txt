@@ -212,3 +212,16 @@ zchan.host56.com/txt/ (otra pagina)
 
 talkboards
 
+bbs.mu (pagina no carga)
+bijou.4ct.org (database error)
+anontalk.eu (no carga)
+chan4chan.org (redirecciona al original)
+atbbs.lostsig.com (pagina muerta?)
+otakutalk.org (en blanco)
+scatchan.net (no carga)
+en.tanobb.com (url invalido?)
+
+boorus
+
+adorabooru.com (paigna no carga)
+angelhq.net (no carga)
