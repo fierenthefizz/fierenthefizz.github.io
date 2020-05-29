@@ -15,10 +15,14 @@ This is not an expert page by any means, so don't come looking for a nice aesthe
 1) Re-organize: I haven't touched it in a few months, I need to re-organize every link, set it up correctly, and decide what links I should put in it.
 
 2) Continue Working on the list: The list is already up and accesible through the main page, now I have to continue working. What's left is:
- -Boorus
- -Miscellaneous pages
- -Re-work the page itself to be more appealing to the eye
- -Add more pages as I go.
+
+    -Boorus
+
+    -Miscellaneous pages
+
+    -Re-work the page itself to be more appealing to the eye
+
+    -Add more pages as I go.
 
 3) Work on styling: Negative has been added to the temporal html, which I use for tests like this, it'll be surely added next update to the main html.
 
