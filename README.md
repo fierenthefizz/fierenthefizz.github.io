@@ -24,6 +24,6 @@ This is not an expert page by any means, so don't come looking for a nice aesthe
 
     -Add more pages as I go.
 
-3) Work on styling: Negative has been added to the temporal html, which I use for tests like this, it'll be surely added next update to the main html.
+3) Work on styling: Negative has been added to the temporal html, which I use for tests like this, it'll be surely added next update to the main html. Now I'm thinking I'll create a negative square around the text so it looks both better and maybe a lil better for the eye.
 
 4) ETC.: This is for smaller stuff like adding more images, adding other projects, etc.
