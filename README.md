@@ -14,8 +14,12 @@ This is not an expert page by any means, so don't come looking for a nice aesthe
 
 1) Re-organize: I haven't touched it in a few months, I need to re-organize every link, set it up correctly, and decide what links I should put in it.
 
-2) Put up Creamy's list: It's the second proyect I'm working on, it's a funky 20k line behemoth so I'm taking my time organizing it to my preference, it'll have its own little to-do too once I upload it.
+2) Continue Working on the list: The list is already up and accesible through the main page, now I have to continue working. What's left is:
+ -Boorus
+ -Miscellaneous pages
+ -Re-work the page itself to be more appealing to the eye
+ -Add more pages as I go.
 
-3) Work on styling: Yeah I know it's not cute, I'm planning on making all the text negative but I'll test if that looks okay.
+3) Work on styling: Negative has been added to the temporal html, which I use for tests like this, it'll be surely added next update to the main html.
 
 4) ETC.: This is for smaller stuff like adding more images, adding other projects, etc.
