@@ -25,19 +25,21 @@ main {
     transform: translate(-40%, -60%);
   }
 }
+.test {
+  background:red;
+  padding: 10px;
+  mix-blend-mode: difference;
+  }
 
 h1 {
-  background-image: linear-gradient(to right, #EFE7D3 -50%, #515B54 100%);
-  color:transparent;  
+  color: white;
+  mix-blend-mode: difference; 
   text-align: center;
-  background-clip: text;
   font-family: "Roboto Slab";
   font-size: 80px;
 }
 
 p {
-  background-image: linear-gradient(to right, #0c3483 0%, #a2b6df 100%, #6b8cce 100%, #a2b6df 100%);
-  color:transparent;
   background-clip: text;
   font-family: "Clear Sans";
   font-size: 1m;
@@ -64,16 +66,12 @@ li {
 }
 
 .subh {
-  background-image: linear-gradient(to right, #B22222 0%, #d47e5e 100%);
-  color:transparent;
   background-clip: text;
   font-weight: bold;
   transition: .2s;
 }
 
-.subh:hover { 
-  background-image: linear-gradient(to left, #ff1a00 0%, #ec8c69 100%);
-  color:transparent;
+.subh:hover {
   background-clip: text;
   transition: .2s;
 }
@@ -89,7 +87,6 @@ a:hover {
 }
 
 .searchfield {
-  background-image: linear-gradient(to left, #8EC1C1 -70%, #B68A44 100%);
   color: #000000;
   border: none;
   display: block;
@@ -103,7 +100,7 @@ a:hover {
   text-align: center;
 }
 
-hr { background-image: linear-gradient(to right, #fcc5e4 0%, #fda34b 15%, #ff7882 35%, #c8699e 52%, #7046aa 71%, #0c1db8 87%, #020f75 100%);
+hr {
   -webkit-background-clip: text;
   background-clip: text;
   width: 250px;

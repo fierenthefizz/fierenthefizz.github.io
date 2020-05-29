@@ -1,9 +1,4 @@
-var num=3;
+var totalCount=21;
+var num=Math.ceil(Math.random() * totalCount);
 var url=`url("images/${num}.jpg")`;
 document.body.style.backgroundImage=url;
-//alert(document.body.style.backgroundImage)
-var head=document.getElementsByTagName('head')[0];
-var link=document.createElement('link');
-link.href=`css/jpgstyle${num}.css`;
-link.rel='stylesheet';
-head.append(link);
