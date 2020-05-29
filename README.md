@@ -4,7 +4,7 @@ This startpage is the first one I've ever done, I'll surely do reworks and the s
 
 ### What do it do?
 
-It's just a basic html page with a simple js script for a duckduckgo search (won't change, it's comfier than google), and one that grabs a random number to grab a picture from the little gallery, then it picks the css for the specific image (which I still havent done!). It also has the links for the pages I use and I'll be updating it with the pages I myself I'm working on.
+It's just a basic html page with a simple js script for a duckduckgo search (won't change, it's comfier than google), and one that grabs a random number to grab a picture from the little gallery, then it inverts the color of the image on the text for visibility. It also has the links for the pages I use and I'll be updating it with the pages I myself I'm working on.
 
 ### What does it not do?
 
@@ -14,8 +14,16 @@ This is not an expert page by any means, so don't come looking for a nice aesthe
 
 1) Re-organize: I haven't touched it in a few months, I need to re-organize every link, set it up correctly, and decide what links I should put in it.
 
-2) Put up Creamy's list: It's the second proyect I'm working on, it's a funky 20k line behemoth so I'm taking my time organizing it to my preference, it'll have its own little to-do too once I upload it.
+2) Continue Working on the list: The list is already up and accesible through the main page, now I have to continue working. What's left is:
 
-3) Work on styling: Yeah I know it's not cute, I'm planning on making all the text negative but I'll test if that looks okay.
+    -Boorus
+
+    -Miscellaneous pages
+
+    -Re-work the page itself to be more appealing to the eye
+
+    -Add more pages as I go.
+
+3) Work on styling: Negative has been added to the temporal html, which I use for tests like this, it'll be surely added next update to the main html. Now I'm thinking I'll create a negative square around the text so it looks both better and maybe a lil better for the eye.
 
 4) ETC.: This is for smaller stuff like adding more images, adding other projects, etc.
