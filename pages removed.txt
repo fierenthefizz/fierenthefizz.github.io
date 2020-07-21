@@ -225,3 +225,54 @@ boorus
 
 adorabooru.com (paigna no carga)
 angelhq.net (no carga)
+Baron's Bloody Gallery: works but cant load images
+Bishbooru: looks like an ad page
+Dasaku: not loading
+Dollbooru: error 1016
+Gal: 404
+Gelbooru: edit the link (extra i)
+Gununubooru: closed with download link
+hentaichan: blank page
+ibsearch: not loading
+Katawa Shoujo: 404
+Mechabooru: edit the link (extra i)
+Nihonmaru: blank page (redirects to a ww1 link too)
+Safeponi: redirects to safebooru with a search tag
+Sexybooru: not loading
+shimmie testbed: change links (theres no v1 or v2 anymore)
+Sickos Alliance: Page not found
+Touhouradiobooru: not loading
+Tout Visuel: not loading
+Vectorbooru: Apache default page
+Windstone: blankpage
+Archive.moe: not loading
+fgts: blank page
+loveisover: blankpage
+4chansearch: blankpage
+4x13: ded
+8archive.moe: blank page
+9ch.ru: for sale
+allchan.org: for sale
+anonsleepover: not loading
+70port.net/webless: webless doesnt exist anymore
+Aoi-chan: not loading
+chanstat: not loading
+arhivach: not loading
+Chuu 3.0: not loading
+Claire's site: ad site?
+Cyber Guerrilla: not loading
+Dollship: not loading
+Fool Frame: not loading
+Gallo: access denied (redirects to another website?)
+IloveYamada: not loading
+Kotori.me: not loading
+NEETs: not loading
+Neritic Archive: not loading
+Nulchan: links to the github
+Peinto: not loading
+Pinochan: blankpage
+Russian Overchan: not loading
+Tablecat: not loading
+Vectorfag: default landing page
+Vichan: for sale?
+World2ch: not loading
